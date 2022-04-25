@@ -4,6 +4,7 @@ Connection:
 
 1. Link programming board to the screen, databank and core unit.
 2. Paste PB.json in programming board.
+3. Copy and paste the folder "DUPIRATE" into the "custom" folder into the following game directory.
 
 Controls:
 
