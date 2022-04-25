@@ -1,5 +1,7 @@
 Dual Universe Pirate Hauler Hunting script.
 
+ I don't play DU anymore, so maybe this code will be useful to someone someday.
+
 Connection:
 
 1. Link programming board to the screen, databank and core unit.
