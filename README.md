@@ -18,5 +18,5 @@ Controls:
 
 Usage:
 
-Switch to manual mode by pressing ALT+G , copy the targer pos 1, then send this pos to lua chat, then copy pos 2 and send it to lua chat. Move the waypoint along the entire length of the calculated target vector. You can copy the current vector to share it with your friends by pressing G (gear) and then copy the vector data from the screen.
+Switch to manual mode by pressing ALT+G , copy the targer pos 1, then send this pos to the lua chat, then copy pos 2 and send it to the lua chat. Move the waypoint along the entire length of the calculated target vector. You can copy the current vector to share it with your friends by pressing G (gear) and then copy the vector data from the screen.
 
