@@ -18,7 +18,7 @@ Controls:
 6. Alt+ ← / Alt + → - move waypoint +- 10 su
 7. Alt+ ↑ / Alt + ↓ - move waypoint +- 2.5 su
 8. To clear the saved coordinates in memory, send the "n" command to the LUA chat
-9. To get the ::pos at the desired calculated coordinate, use the "mar" command. For example, the "mar25" command will return to the LUA chat the calculated position 25 su ahead, and the "mar-25" will return positions 25 su behind
+9. To get the ::pos at the desired calculated waypoint, use the "mar" command. For example, the "mar25" command will return to the LUA chat the calculated position 25 su ahead, and the "mar-25" will return position 25 su behind
 
 Usage:
 
